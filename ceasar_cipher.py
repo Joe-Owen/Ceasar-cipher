@@ -28,7 +28,7 @@ def decrypt(n, ciphertext):
     return result
 
 def program():    
-    code = input("Enter sentance to be ciphered or unciphered")
+    code = input("Enter sentence to be ciphered or unciphered: ")
     print('\n'*99999)
     print("enter cipher level")
     level = 0
